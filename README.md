@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Anton!
 
-🚀 **Software Engineering Graduate | Aspiring Software Developer**
-
 I'm a **Software Engineering graduate** with knowledge in **mobile and software development**. I enjoy solving problems through code.
 
 
