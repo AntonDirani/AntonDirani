@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anton!
 
-I'm a **Software Engineering graduate** with knowledge in **mobile and software development**. I enjoy solving problems through code.
+I'm a **Software Engineering graduate** with knowledge in **web & mobile  development.**. I enjoy solving problems through code.
 
 
 🌐 Web & APIs
